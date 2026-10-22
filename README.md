@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hands-banner.png" width="100%" alt="Monochrome hands reaching toward each other" />
+<img src="download.jpg" width="100%" alt="Monochrome hands reaching toward each other" />
 
 # Hi 👋, Imma Shady
 
