@@ -1,59 +1,61 @@
-<div align="center">
+ <div align="center">
 
-<img src="The boondocks.jpg" width="100%" alt="Monochrome hands reaching toward each other" />
+<img src="The boondocks.jpg" width="100%" alt="Mãos se alcançando em preto e branco" />
 
-# Hi 👋, Imma Shady
+# Olá 👋, eu sou Honorato
 
-### Backend Developer
+### Desenvolvedor Backend
 
-`Just Code Nig`
+`Transformando código em soluções`
 
-<p>Building reliable backend systems with clean architecture and scalable solutions.</p>
+<p>Desenvolvendo sistemas backend confiáveis, com foco em organização, eficiência e aprendizado contínuo.</p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre mim
 
-<img align="right" width="180" src="./assets/pixel-art.png" alt="Pixel-art illustration" />
+<img align="right" width="180" src="./assets/pixel-art.png" alt="Ilustração em pixel art" />
 
-**Shady**, here — a developer focused on learning, building, and improving through real projects.
+**Honorato** aqui — um desenvolvedor focado em aprender, criar projetos e evoluir constantemente através da prática.
 
-- 💻 Working with **JavaScript, Java, HTML, and CSS**
-- 🧠 Interested in backend development and problem-solving
-- 🛠️ Learning by building projects and improving my code
-- 🎯 Goal: create reliable software and keep growing as a developer
+- 💻 Trabalhando com **JavaScript, HTML, CSS, PHP e MySQL**
+- 🧠 Interessado em desenvolvimento backend e resolução de problemas
+- 🛠️ Aprendendo na prática, criando projetos e aprimorando meu código
+- 🎯 Objetivo: desenvolver sistemas eficientes e continuar evoluindo como desenvolvedor
 
 <br clear="right"/>
 
 ---
 
-## 🤝 Connect
+## 🤝 Conecte-se comigo
 
 <a href="https://github.com/SEU-USUARIO"><img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" /></a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" /></a>
+<a href="mailto:SEU-EMAIL"><img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Gmail" /></a>
 &nbsp;&nbsp;
-<a href="mailto:SEU-EMAIL"><img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email" /></a>
+<a href="https://discord.com/users/SEU-ID-DISCORD"><img src="https://skillicons.dev/icons?i=discord" height="42" alt="Discord" /></a>
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tecnologias e ferramentas
 
-<img src="https://skillicons.dev/icons?i=js,java,html,css,git,github,vscode" alt="JavaScript, Java, HTML, CSS, Git, GitHub and VS Code" />
-
----
-
-## 📊 GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f4f4f5&text_color=c9d1d9&icon_color=8b949e" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&bg_color=0d1117&title_color=f4f4f5&text_color=c9d1d9" alt="Most used languages" />
+<img src="https://skillicons.dev/icons?i=js,html,css,php,mysql,git,github,vscode" alt="JavaScript, HTML, CSS, PHP, MySQL, Git, GitHub e VS Code" />
 
 ---
 
-## 📈 Activity Graph
+## 📊 Estatísticas do GitHub
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&bg_color=0d1117&color=c9d1d9&line=6e9ed6&point=f4f4f5&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f4f4f5&text_color=c9d1d9&icon_color=8b949e&locale=pt-br" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&bg_color=0d1117&title_color=f4f4f5&text_color=c9d1d9&locale=pt-br" alt="Linguagens mais utilizadas" />
 
 ---
 
-<p align="center"><i>Keep building. Keep learning. Keep improving.</i></p>
+## 📈 Gráfico de atividade
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&bg_color=0d1117&color=c9d1d9&line=6e9ed6&point=f4f4f5&area=true&hide_border=true" width="100%" alt="Gráfico de atividade no GitHub" />
+
+---
+
+<p align="center"><i>Continue criando. Continue aprendendo. Continue evoluindo.</i></p>
+
+</div>
